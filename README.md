@@ -1,1 +1,1 @@
-# first-day-practice
+# first-day-repo
